@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IMDB-Clone/static/css/main.3d36e734.css",
+    "main.js": "/IMDB-Clone/static/js/main.e97379ed.js",
+    "index.html": "/IMDB-Clone/index.html",
+    "main.3d36e734.css.map": "/IMDB-Clone/static/css/main.3d36e734.css.map",
+    "main.e97379ed.js.map": "/IMDB-Clone/static/js/main.e97379ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d36e734.css",
+    "static/js/main.e97379ed.js"
+  ]
+}
